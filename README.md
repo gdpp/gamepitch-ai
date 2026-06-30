@@ -8,8 +8,6 @@ Many developers build amazing games but struggle to communicate their value. Mar
 
 GamePitch AI solves that problem by generating high-quality, game-specific marketing content using Large Language Models (LLMs), allowing developers to focus on what they do best: building great games.
 
----
-
 ## ✨ Features
 
 Current MVP includes:
@@ -31,8 +29,6 @@ Future releases will include:
 - Multi-language support
 - AI-powered marketing recommendations
 
----
-
 ## 🚀 Why GamePitch AI?
 
 Unlike general-purpose AI assistants, GamePitch AI is designed specifically for the game development industry.
@@ -49,8 +45,6 @@ It understands:
 The goal is not simply generating text.
 
 The goal is generating marketing content developers can actually use.
-
----
 
 ## 🏗️ Architecture
 
@@ -80,8 +74,6 @@ GamePitch AI is being built as a production-ready SaaS application following mod
 - Feature Flags
 - Scalability
 
----
-
 ## 📂 Project Structure
 
 ```text
@@ -97,8 +89,6 @@ gamepitch-ai/
 
 Additional documentation is available inside the **docs/** directory.
 
----
-
 ## 📖 Documentation
 
 | Document               | Description                                          |
@@ -109,8 +99,6 @@ Additional documentation is available inside the **docs/** directory.
 | `docs/engineering.md`  | Engineering standards and operational practices      |
 | `docs/roadmap.md`      | Product roadmap and implementation phases            |
 | `docs/adr/`            | Architecture Decision Records (ADRs)                 |
-
----
 
 ## 🛣️ Roadmap
 
@@ -165,8 +153,6 @@ Additional documentation is available inside the **docs/** directory.
 - Analytics
 - Team collaboration
 
----
-
 ## 🎯 Project Goals
 
 GamePitch AI is designed to demonstrate production-grade backend engineering while solving a real-world problem.
@@ -181,15 +167,11 @@ The project emphasizes:
 - Clean code
 - Engineering best practices
 
----
-
 ## 🤝 Contributing
 
 Contributions, ideas, and feedback are welcome.
 
 Please read the project's documentation before submitting changes.
-
----
 
 ## 📄 License
 
