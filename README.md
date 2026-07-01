@@ -2,11 +2,19 @@
 
 > **AI-powered marketing for indie game developers.**
 
-GamePitch AI is an AI-powered platform that helps indie developers and small game studios create professional marketing content in seconds.
+GamePitch AI is an AI-powered marketing assistant built specifically for indie game developers and small studios.
 
-Many developers build amazing games but struggle to communicate their value. Marketing often requires skills, time, and budget that independent creators simply don't have.
+Building a great game is hard enough. Marketing it is an entirely different challenge.
 
-GamePitch AI solves that problem by generating high-quality, game-specific marketing content using Large Language Models (LLMs), allowing developers to focus on what they do best: building great games.
+Many developers are exceptional programmers, artists, or designers, but they are not marketers or copywriters. Communicating why a game is worth playing can be just as difficult as building it.
+
+Hiring a marketing agency or copywriter is often too expensive for solo developers and small teams. As a result, many promising games launch with weak store pages, ineffective social media posts, and pitches that fail to capture their true potential.
+
+**GamePitch AI bridges that gap.**
+
+By combining AI with game-specific marketing expertise, it helps developers create professional marketing content in minutes, without needing a marketing team.
+
+Whether you're preparing your Steam page, announcing your game on social media, creating a trailer script, or pitching to publishers, GamePitch AI helps you communicate your vision clearly and confidently, so you can spend more time building your game and less time struggling to market it.
 
 ## ✨ Features
 
@@ -91,67 +99,14 @@ Additional documentation is available inside the **docs/** directory.
 
 ## 📖 Documentation
 
-| Document               | Description                                          |
-| ---------------------- | ---------------------------------------------------- |
-| `docs/product.md`      | Product vision, business context, and MVP definition |
-| `docs/architecture.md` | System architecture and design decisions             |
-| `docs/backend.md`      | Backend design and API architecture                  |
-| `docs/engineering.md`  | Engineering standards and operational practices      |
-| `docs/roadmap.md`      | Product roadmap and implementation phases            |
-| `docs/adr/`            | Architecture Decision Records (ADRs)                 |
-
-## 🛣️ Roadmap
-
-### Phase 0
-
-- Product definition
-- Architecture design
-- Technical documentation
-- Engineering standards
-
-### Phase 1
-
-- Backend foundation
-- FastAPI
-- Docker
-- Health Checks
-- Logging
-- CI/CD
-
-### Phase 2
-
-- AI integration
-- Prompt Engine
-- Steam Description Generator
-
-### Phase 3
-
-- React frontend
-- User interface
-- AI interaction
-
-### Phase 4
-
-- PostgreSQL
-- Persistence
-- Projects
-- Generation history
-
-### Phase 5
-
-- Production readiness
-- Observability
-- Metrics
-- Tracing
-- Performance optimization
-
-### Phase 6
-
-- SaaS platform
-- Authentication
-- Billing
-- Analytics
-- Team collaboration
+| Document                                       | Description                                          |
+| ---------------------------------------------- | ---------------------------------------------------- |
+| 📄 [Product Definition](docs/product.md)       | Product vision, business context, and MVP definition |
+| 🏛️ [System Architecture](docs/architecture.md) | System architecture and design decisions             |
+| ⚙️ [Backend Design](docs/backend.md)           | Backend design and API architecture                  |
+| 🛠️ [Engineering Guide](docs/engineering.md)    | Engineering standards and operational practices      |
+| 🗺️ [Implementation Roadmap](docs/roadmap.md)   | Product roadmap and implementation phases            |
+| `docs/adr/`                                    | Architecture Decision Records (ADRs)                 |
 
 ## 🎯 Project Goals
 
